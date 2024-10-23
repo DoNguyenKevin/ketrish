@@ -1,0 +1,3 @@
+C:/Users/taqua/CLionProjects/ketrish/cmake-build-debug/CMakeFiles/ketrish.dir
+C:/Users/taqua/CLionProjects/ketrish/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/taqua/CLionProjects/ketrish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
